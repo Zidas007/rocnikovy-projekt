@@ -4,4 +4,4 @@
 # Říjen - něco vymyslím
 # Listopad - už to bude hotové doufám
 # Prosinec - dokumentace
-# Leden - Tak to nevyšlo
+# Leden - Doufám, že to projde
