@@ -1,2 +1,2 @@
 # rocnikovy-projekt
-# Arduino Obstacle Avoiding Car
+# Arduino Bluetooth Controlled Car
