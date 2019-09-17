@@ -8,4 +8,4 @@
  - [ ] Prosinec - odevzdání projektu
 
 # Důvod vybrání projektu
-- [x] zdyr
+
