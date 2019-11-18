@@ -2,9 +2,9 @@
 - Arduino Bluetooth Controlled Car
 - inspirativní video - https://www.youtube.com/watch?v=Q36NbjPMV5k
 
- - [x] Září- Začátek, objednani komponentů, pájení motorků
- - [ ] Říjen - napsání dokumentace a sestavení robota
- - [ ] Listopad - studování programu a jeho začlenění do projektu
+ - [x] Září- Začátek, objednani komponentů
+ - [x] Říjen - pájení motorků,studování programu
+ - [ ] Listopad - zpracování dokumentace
  - [ ] Prosinec - odevzdání projektu
 
 # Předměty použité v projektu 
